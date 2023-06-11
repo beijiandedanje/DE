@@ -1,0 +1,3 @@
+﻿  demo.cpp
+C:\Users\10336\Desktop\c++\de laxt\DE 6\DE\DE\demo.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  DE.vcxproj -> C:\Users\10336\Desktop\c++\de laxt\DE 6\DE\x64\Debug\DE.exe
